@@ -1,0 +1,12 @@
+coursera-splunk-expert/
+├── README.md
+├── images/
+│   ├── architecture_before.png
+│   ├── architecture_after.png
+│   ├── attack_dashboard_before.png
+│   ├── attack_dashboard_after.png
+│   └── sample_splunk_searches.png
+└── searches/
+    ├── savedsearches.conf
+    ├── dashboards.xml
+    └── example_query_splunk.spl
