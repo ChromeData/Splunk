@@ -68,7 +68,8 @@ All resources were initially deployed with broad exposure. The Windows and Linux
 
 
 3. **Windows Security Events**  
-   ![Windows Event Log Failures](https://i.imgur.com/uFKppWA.png)
+   ![image](https://github.com/user-attachments/assets/69868aa1-3bce-44a6-84c1-f6d0d33b60e0)
+
 
 ---
 
