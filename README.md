@@ -64,7 +64,8 @@ All resources were initially deployed with broad exposure. The Windows and Linux
 
 
 2. **Authentication Failures (Linux Syslog)**  
-   ![Linux Auth Failures](https://i.imgur.com/7f7ZaMx.png)
+   ![image](https://github.com/user-attachments/assets/78058eeb-42c1-4540-be4f-b9d80075333e)
+
 
 3. **Windows Security Events**  
    ![Windows Event Log Failures](https://i.imgur.com/uFKppWA.png)
