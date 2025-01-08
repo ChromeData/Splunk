@@ -38,7 +38,8 @@ All resources were initially deployed with broad exposure. The Windows and Linux
 
 ## Architecture After Hardening / Security Controls
 
-![image](https://github.com/user-attachments/assets/c7673a4d-f34d-487a-8b57-bdaa93dfeee8)
+![image](https://github.com/user-attachments/assets/0f91b7a0-7caf-434e-a130-706f6342c634)
+
 
 
 ### Security Improvements
@@ -59,7 +60,8 @@ All resources were initially deployed with broad exposure. The Windows and Linux
 ## Attack Dashboards Before Hardening / Security Controls
 
 1. **Network Attacks**  
-   ![Network Attacks Dashboard](https://i.imgur.com/TR1qPdo.png)
+   ![image](https://github.com/user-attachments/assets/a46575e8-8417-4194-9f58-8b6205475fc6)
+
 
 2. **Authentication Failures (Linux Syslog)**  
    ![Linux Auth Failures](https://i.imgur.com/7f7ZaMx.png)
