@@ -1,7 +1,8 @@
 # Splunk  
 # Building a SIEM Environment in Splunk (Live Traffic)
 
-![Splunk SIEM Environment](https://i.imgur.com/r0XF1gj.jpg)
+![image](https://github.com/user-attachments/assets/61ad46fc-30a7-4953-b94f-12ed976adbcc)
+
 
 ## Introduction
 
@@ -19,7 +20,8 @@ The metrics we will show are:
 
 ## Architecture Before Hardening / Security Controls
 
-![Architecture Diagram (Before)](https://i.imgur.com/tOl2NC0.png)
+![image](https://github.com/user-attachments/assets/36b28fc6-0410-4d2d-bfd0-4ebda1164477)
+
 
 ### Environment Details
 
@@ -36,7 +38,8 @@ All resources were initially deployed with broad exposure. The Windows and Linux
 
 ## Architecture After Hardening / Security Controls
 
-![Architecture Diagram (After)](https://i.imgur.com/dGGePGO.png)
+![image](https://github.com/user-attachments/assets/c7673a4d-f34d-487a-8b57-bdaa93dfeee8)
+
 
 ### Security Improvements
 
